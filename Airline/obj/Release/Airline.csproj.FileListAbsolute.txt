@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Airline\obj\Release\Airline.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Airline\obj\Release\Airline.Form1.resources
+C:\Users\user\Desktop\Airline\obj\Release\Airline.Form2.resources
+C:\Users\user\Desktop\Airline\obj\Release\Airline.Properties.Resources.resources
+C:\Users\user\Desktop\Airline\obj\Release\Airline.csproj.GenerateResource.cache
